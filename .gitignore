@@ -1,1 +1,4 @@
 pico-8*.zip
+*.AppDir
+pico-8/*
+*.AppImage
